@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">GitWeather</string>
+    <string name="search_city">Search City</string>
+    <string name="quote">Have a Garbage Day</string>
+    <string name="temp_date_and_time" translatable="false">19 January, 05:54</string>
+    <string name="temp_min" translatable="false">Min Temp.</string>
+    <string name="temp_max" translatable="false">Max Temp.</string>
+    <string name="temp" translatable="false">23℃</string>
+    <string name="cooler" translatable="false">🤗</string>
+    <string name="cool" translatable="false">😎</string>
+    <string name="hot" translatable="false">🥵</string>
+    <string name="warmer" translatable="false">🤒</string>
+    <string name="warm" translatable="false">🥰</string>
+    <string name="cold" translatable="false">🥶</string>
+    <string name="colder" translatable="false">💀</string>
+    <string name="cooler_weather">easy breezy 😇😊</string>
+    <string name="cool_weather">grab a beer and car keys 😎🤙</string>
+    <string name="hot_weather">leave your AC ON 🥰🔥</string>
+    <string name="warmer_weather">almost as hot as you 😘💛</string>
+    <string name="warm_weather">global warming? 😂🤣</string>
+    <string name="cold_weather">your car bat just died 😬😭</string>
+    <string name="colder_weather">cold balls 💀💀💀</string>
+    <string name="wind">👻 Wind Speed:</string>
+    <string name="rain">"💦 Humidity:"</string>
+    <string name="pressure">"🏋️ Pressure:"</string>
+    <string name="city">is a cool city. 🙃</string>
+    <string name="enter_city">Please enter a city name</string>
+    <string name="null_city">City not found</string>
+    <string name="loc_disabled">Please enable your location service 😇🧐</string>
+    <string name="error">ERROR 😨😖</string>
+    <string name="permission_granted">Permission Granted 🤗</string>
+    <string name="permission_denied">Permission Denied 😫</string>
+
+</resources>

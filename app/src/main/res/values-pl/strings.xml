@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GitWeather</string>
+    <string name="search_city">Wyszukaj Miasto</string>
+    <string name="quote">Do siego dnia</string>
+    <string name="cooler_weather">chillerka z piwkiem 😇😊</string>
+    <string name="cool_weather">weź tą pracę odstaw😎🤙</string>
+    <string name="hot_weather">parówa 🔥🔥</string>
+    <string name="warmer_weather">trochę rezi słonko 🌞🤠</string>
+    <string name="warm_weather">globalne ocieplenie? 😂🤣</string>
+    <string name="cold_weather">ale mrozi ziomuś 😬😭</string>
+    <string name="colder_weather">pizgawica 💀💀💀</string>
+    <string name="wind">👻 Prędkość Wiatru:</string>
+    <string name="rain">💦 Wilgotność:</string>
+    <string name="pressure">🏋️ Ciśnienie:</string>
+    <string name="city">to spoko miasto 🙃</string>
+    <string name="enter_city">Podaj nazwę miasta</string>
+    <string name="null_city">Nie znaleziono miasta</string>
+    <string name="loc_disabled">Włącz lokalizację 😇🧐</string>
+    <string name="error">BŁĄD 😨😖</string>
+    <string name="permission_granted">Przyznano Dostęp 🤗</string>
+    <string name="permission_denied">Zablokowano Dostęp 😫</string>
+</resources>
