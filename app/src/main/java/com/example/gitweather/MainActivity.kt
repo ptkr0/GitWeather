@@ -193,7 +193,7 @@ class MainActivity : AppCompatActivity() {
 
     companion object {
         private const val PERMISSION_REQUEST_ACCESS_LOCATION = 100
-        private const val API_KEY = "OPEN_WEATHER_API_KEY"
+        private const val API_KEY = "bd5e378503939ddaee76f12ad7a97608" // API key for OpenWeatherMap found on GitHub
     }
 
     // Check if location is granted
