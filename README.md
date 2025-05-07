@@ -6,3 +6,10 @@ Clone this repository and open it with `Android Studio`. [API key](https://gist.
 
 ## Usage
 Application will ask you for your location. Grant it and it will display weather in a city you live in. Use search bar to check weather in different cities.
+
+## Screenshots
+![Current Location](./assets/Screenshot_20250508-004856.png "Current Location")
+
+![Search Tokyo](./assets/Screenshot_20250508-004849.png "Search Tokyo")
+
+![Search Los Angeles](./assets/Screenshot_20250508-0050000.png "Search Los Angeles")
